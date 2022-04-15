@@ -1,0 +1,6 @@
+### Hi There 👋 
+- 👋 I am Binayak.
+- 🌱 I’m currently learning python,flask,Machine Learning,AWS,Deep Learning.
+- 💞️ Interested in Data Science,Web-development and so on...
+- 📫 Fun Fact:I love to code and Decode...
+
